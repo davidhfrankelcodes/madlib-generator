@@ -10,6 +10,11 @@ window.TEMPLATE_REGISTRY = [
   'templates/adventure.js',
   'templates/animals.js',
   'templates/food.js',
+  'templates/horror.js',
   'templates/school.js',
   'templates/scifi.js',
+  'templates/sports.js',
+  'templates/superheroes.js',
+  'templates/travel.js',
+  'templates/work.js',
 ];
